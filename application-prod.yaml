@@ -1,5 +1,4 @@
 mysql:
-  user: A-Mo1127_new
-  
+  user: A-Mo1127
 person:
   name: AMo_new
